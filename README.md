@@ -1,0 +1,2 @@
+# VmcTestClient
+Vmc HAL testClient
